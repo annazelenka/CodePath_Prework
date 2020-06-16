@@ -15,4 +15,4 @@
 - [x] User can update label text with custom text entered into text field
     - [x] User can enter text into a text field using the keyboard
     - [x] User can click "update text" to update text with the text they entered
-    - [x] If emty text field, update text with default text string ("Yay Android!")
+    - [x] If empty text field, update text with default text string ("Yay Android!")
